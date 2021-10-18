@@ -1,27 +1,27 @@
-$project
+$A Short Hike
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+" a little exploration game about hiking up a mountain"
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+How do you play "A Short Hike"?
 --------
 
-- Be awesome
-- Make things faster
+A Short Hike is a game where your main goal is to get to the top of a mountain. 
+While this is an easy task, the fun comes from what you encounter on your journey to the top.
+
+Some things you will incounter include:
+Other hikers who need your help, hidden treasure, and races to participate in, just to name a few.
+
 
 Installation
 ------------
 
-Install $project by running:
+A Short Hike can be bought and installed on these websites.
 
-    install project
+Steam (Requires the steam launcher): https://store.steampowered.com/app/1055540/A_Short_Hike/
+
+itch.io:https://ashorthike.com/
+
 
 Contribute
 ----------
@@ -32,7 +32,7 @@ Contribute
 Support
 -------
 
-If you are having issues, please let us know.
+If you are having issues, please let us know
 We have a mailing list located at: project@google-groups.com
 
 License
