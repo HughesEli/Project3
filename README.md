@@ -20,22 +20,20 @@ A Short Hike can be bought and installed on these websites.
 
 Steam (Requires the steam launcher): https://store.steampowered.com/app/1055540/A_Short_Hike/
 
+Epic (Requires the epic launcher): https://www.epicgames.com/store/en-US/p/a-short-hike
+
 itch.io:https://ashorthike.com/
 
+gog: https://www.gog.com/game/a_short_hike
 
-Contribute
+Controls
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
 
-Support
+
+Creators
 -------
 
-If you are having issues, please let us know
-We have a mailing list located at: project@google-groups.com
+The game was made by adamgryu: https://adamgryu.com/
 
-License
--------
-
-The project is licensed under the BSD license.
+The music was writteny by Mark Sparling: https://marksparling.ca/
