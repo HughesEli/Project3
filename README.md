@@ -26,12 +26,47 @@ itch.io:https://ashorthike.com/
 
 gog: https://www.gog.com/game/a_short_hike
 
+
+
+System Requirements
+-------------------
+
+Windows Minimum:
+
+        OS: Windows 7 SP1+ (or later)
+        Processor: Intel or AMD Dual Core at 2 GHz or better
+        Memory: 2 GB RAM
+        Graphics: Intel Graphics 4400 or better
+        DirectX: Version 11
+        Storage: 400 MB available space
+
+macOS Minimum:
+
+        OS: macOS 10.12+
+        Processor: Intel or AMD Dual Core at 2 GHz or better
+        Memory: 2 GB RAM
+        Graphics: Intel Graphics 4400 or better
+        Storage: 400 MB available space
+
+Linux Minimum:
+
+        OS: Ubuntu 16.04+ (64-bit only)
+        Processor: Intel or AMD Dual Core at 2 GHz or better
+        Memory: 2 GB RAM
+        Graphics: Intel Graphics 4400 or better
+        Storage: 400 MB available space
+
+
+
+
+
+
+
 Controls
 ----------
 
 
-
-Creators
+Licensing 
 -------
 
 The game was made by adamgryu: https://adamgryu.com/
