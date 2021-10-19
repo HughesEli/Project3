@@ -1,4 +1,4 @@
-$A Short Hike
+A Short Hike
 ========
 
 A Short Hike is a game where your main goal is to get to the top of a mountain. 
