@@ -41,9 +41,9 @@ Installation
 
 A Short Hike can be bought and installed on these websites.
 
-Steam (Requires the steam launcher): https://store.steampowered.com/app/1055540/A_Short_Hike/
+Steam (Requires the Steam launcher): https://store.steampowered.com/app/1055540/A_Short_Hike/
 
-Epic (Requires the epic launcher): https://www.epicgames.com/store/en-US/p/a-short-hike
+Epic (Requires the Epic launcher): https://www.epicgames.com/store/en-US/p/a-short-hike
 
 itch.io:https://ashorthike.com/
 
