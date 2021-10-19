@@ -53,11 +53,22 @@ gog: https://www.gog.com/game/a_short_hike
 FAQ
 ----------
 
+What is the objective of the game?
+
+To climb the mountain.
+
+Can you disable the pixelation?
+
+Yes! Simply go to Options, then Graphics, then adjust pixelization under Pixel Size.
+
+How long does the game last?
+
+The length of the game is dependent on how much of the side content you want to experience. Getting to the top of the mountain is relatively quick, but the game lasts much longer if you try and do all of the quests for the other hikers.
 
 Support
 --------
 
-
+Forums for A Short Hike can be found here: https://steamcommunity.com/app/1055540
 
 
 Creators
